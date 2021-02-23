@@ -1,2 +1,2 @@
-# my-adonis-app
-Latihan membuat rest api dengan adonisJS dan authentication jwt
+# Adonis1
+ Latihan membuat rest api dengan adonisJS dan authentication jwt
